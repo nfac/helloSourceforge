@@ -3,3 +3,15 @@ resolve conflicts  2....
 resolve both conflicts  3....
 resolve all conflicts  4....
 resolve conflicts above  5....
+
+
+qsd
+d
+
+qsd
+dsq
+dqs
+dsq
+dsq
+sdq
+sdq
